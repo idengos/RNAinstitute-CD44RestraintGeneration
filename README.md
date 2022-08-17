@@ -1,4 +1,4 @@
-# RNAinstitute-CD44
+# RNAinstitute-CD44RestraintGeneration
 
 Codes to create distance restraints for CD44-miRNA to change from conformation B to A or C.
 
